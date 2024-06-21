@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yiju's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yiju Li
+Undergraduate Student at the Revlle College, University of California San Diego
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="yil125@ucsd.edu">yil125@ucsd.edu</a>
+| <a href="https://yiju-li.github.io/markdown-cv/">My Online CV Page</a>
 </div>
 
 
 ## Currently
+An aspiring student seeking opportunities in academic research.
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+### Academic Focus
+B.S. in Applied Math, B.S. in Computer Engineering, Minor in Data Science, Minor in Bioinformatics.
 
 ### Research interests
+AI, Robotics Control, and Hardware Design & Manufacturing.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Skills
+Linear Algebra (Math), Statistics and Probability (Math), Automation by Scripts (CSE), Web Application Development (CSE), Neural Networks (CSE), Operation System(CSE), DNA Sequencing and Analysis (Bioinfo), and Digital Design (EE).
 
+### Languages
+Mandarin (Native), English (Fluent)
 
-## Education
+## Education Timeline
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - 2023`
+__University of California, San Diego__
+- Undergraduate Student
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2023 - 2024`
+Gap year for health treatment in home country.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2024 - 2026(Expected)`
+__University of California, San Diego__
+- Undergraduate Student
 
 
+## Work and Research Experience
 
-## Publications
+`2022 Summer`
+*Software Engineer Intern*, Amazon, Seattle, Washington
+- Developed companion software for Amazon’s smart devices.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2022 Winter`
+*Research Assistant Intern*, CPMG, Columbia University, New York
+- Performed data organization and visualization for genomics data.
 
-### Journals
+`2023 Spring`
+*Visiting Student*, Li Lab, Lubbock, Texas
+- Developed cancer subtype classification models using neural networks based on genetic data.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2023 Spring`
+*Electric Engineer Intern*, Vigitron, San Diego, California
+- Developed lower-level code for router gateways, increasing data routing efficiency.
+- Incomplete due to health issues.
 
-`1669`
-Lectiones opticæ.
+`2024 Spring`
+*Software Engineer Intern*, AidLux, Chengdu, China and San Diego, California
+- Participated in a team that developed a system enabling Android apps to share the same kernel with Linux systems.
+- Because of its significant optimization for edge AI development, it was accepted and utilized by Qualcomm.
+## Volunteer Experience and Projects
 
-etc. etc. etc.
+`2022`
+*Language extension for Flarum*
+- Participated in a team working on the language extension (Simplified/Traditional Chinese) for the open-source modern forum project Flarum.
 
-### Patents
+`2023`
+*Resolved i18n(Internationalization) conflicts for NextJS.*
+- Contributed to the NextJS community by resolving frequent conflicts related to its built-in i18n support.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2024`
+*Automated Feeding Machine for San Diego Zoo*
+- Volunteered in a team at the San Diego Zoo to build an automated feeding machine, and develop its algorithm and control panel.
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2024`
+*Developed a platform for a local board games club*
+- Volunteered to build a platform from scratch for a local board games club in San Diego using NextJS and Supabase, featuring a reservation system and user management.
