@@ -63,6 +63,7 @@ __University of California, San Diego__
 *Software Engineer Intern*, AidLux, Chengdu, China and San Diego, California
 - Participated in a team that developed a system enabling Android apps to share the same kernel with Linux systems.
 - Because of its significant optimization for edge AI development, it was accepted and utilized by Qualcomm.
+
 ## Volunteer Experience and Projects
 
 `2022`
