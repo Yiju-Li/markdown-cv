@@ -33,11 +33,14 @@ __University of California, San Diego__
 - Undergraduate Student
 
 `2023 - 2024`
-Gap year for health treatment in home country.
+- Gap year for health treatment in home country.
 
-`2024 - 2026(Expected)`
+`2024 - 2026*`
 __University of California, San Diego__
 - Undergraduate Student
+<div id="webaddress">
+*: expected to graduate in 2026
+</div>
 
 
 ## Work and Research Experience
