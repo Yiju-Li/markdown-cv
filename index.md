@@ -64,11 +64,11 @@ __University of California, San Diego__
 - Participated in a team that developed a system enabling Android apps to share the same kernel with Linux systems.
 - Because of its significant optimization for edge AI development, it was accepted and utilized by Qualcomm.
 
-## Volunteer Experience and Projects
+## Volunteer Experience
 
 `2022`
 *Language extension for Flarum*
-- Participated in a team working on the language extension (Simplified/Traditional Chinese) for the open-source modern forum project Flarum.
+- Participated in a team working on the language extension (Simplified/Traditional Chinese) for the open-source forum project Flarum.
 
 `2023`
 *Resolved i18n(Internationalization) conflicts for NextJS.*
