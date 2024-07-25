@@ -12,7 +12,7 @@ Undergraduate Student at the Revlle College, University of California San Diego
 
 
 ## Currently
-An aspiring student seeking opportunities in academic research.
+
 
 ### Academic Focus
 B.S. in Applied Math, B.S. in Computer Engineering, Minor in Data Science, Minor in Bioinformatics.
@@ -35,11 +35,11 @@ __University of California, San Diego__
 `2023 - 2024`
 - Gap year for health treatment in home country.
 
-`2024 - 2026*`
+`2024 - 2025*`
 __University of California, San Diego__
 - Undergraduate Student
 <div id="webaddress">
-*: expected to graduate in 2026
+*: expected to graduate in 2025
 </div>
 
 
@@ -77,10 +77,6 @@ __University of California, San Diego__
 *Resolved i18n(Internationalization) conflicts for NextJS.*
 - Contributed to the NextJS community by resolving frequent conflicts related to its built-in i18n support.
 
-`2024`
-*Automated Feeding Machine for San Diego Zoo*
-- Volunteered in a team at the San Diego Zoo to build an automated feeding machine, and develop its algorithm and control panel.
-
-`2024`
-*Developed a platform for a local board games club*
-- Volunteered to build a platform from scratch for a local board games club in San Diego using NextJS and Supabase, featuring a reservation system and user management.
+`2020 - 2024`
+*First® Team Mentor & Competition Volunteer*
+- Mentored team 4809 of the FIRST® Tech Challenge and volunteered as a judge and field engineer in both the FIRST® Robotics Competition and FIRST® Tech Challenge since 2020.
