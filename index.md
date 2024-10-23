@@ -7,7 +7,6 @@ Undergraduate Student at the Revlle College, University of California San Diego
 
 <div id="webaddress">
 <a href="yil125@ucsd.edu">yil125@ucsd.edu</a>
-| <a href="https://yiju-li.github.io/markdown-cv/">My Online CV Page</a>
 </div>
 
 
@@ -61,11 +60,6 @@ __University of California, San Diego__
 *Electric Engineer Intern*, Vigitron, San Diego, California
 - Developed lower-level code for router gateways, increasing data routing efficiency.
 - Incomplete due to health issues.
-
-`2024 Spring`
-*Software Engineer Intern*, AidLux, Chengdu, China and San Diego, California
-- Participated in a team that developed a system enabling Android apps to share the same kernel with Linux systems.
-- Because of its significant optimization for edge AI development, it was accepted and utilized by Qualcomm.
 
 ## Volunteer Experience
 
